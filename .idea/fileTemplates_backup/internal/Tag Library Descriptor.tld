@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<taglib xmlns="${JAVAEE_NS}"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="${JAVAEE_NS} ${JAVAEE_NS}/web-jsptaglibrary_2_${MINOR_VERSION}.xsd"
+        version="2.${MINOR_VERSION}">
+
+    <tlib-version>1.0</tlib-version>
+    <short-name>myshortname</short-name>
+    <uri>http://mycompany.com</uri>
+
+    <!-- Invoke 'Generate' action to add tags or functions -->
+
+</taglib>
