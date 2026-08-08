@@ -1,3 +1,7 @@
+D:\java_project\yu-ai-code-mother\src\main\java\com\yupi\yuaicodemother\ai\AiCodeGeneratorService.java
+D:\java_project\yu-ai-code-mother\src\main\java\com\yupi\yuaicodemother\ai\AiCodeGeneratorServiceFactory.java
+D:\java_project\yu-ai-code-mother\src\main\java\com\yupi\yuaicodemother\ai\model\HtmlCodeResult.java
+D:\java_project\yu-ai-code-mother\src\main\java\com\yupi\yuaicodemother\ai\model\MultiFileCodeResult.java
 D:\java_project\yu-ai-code-mother\src\main\java\com\yupi\yuaicodemother\annotation\AuthCheck.java
 D:\java_project\yu-ai-code-mother\src\main\java\com\yupi\yuaicodemother\aop\AuthInterceptor.java
 D:\java_project\yu-ai-code-mother\src\main\java\com\yupi\yuaicodemother\common\BaseResponse.java
@@ -9,6 +13,9 @@ D:\java_project\yu-ai-code-mother\src\main\java\com\yupi\yuaicodemother\config\J
 D:\java_project\yu-ai-code-mother\src\main\java\com\yupi\yuaicodemother\constant\UserConstant.java
 D:\java_project\yu-ai-code-mother\src\main\java\com\yupi\yuaicodemother\controller\HealthController.java
 D:\java_project\yu-ai-code-mother\src\main\java\com\yupi\yuaicodemother\controller\UserController.java
+D:\java_project\yu-ai-code-mother\src\main\java\com\yupi\yuaicodemother\core\AiCodeGeneratorFacade.java
+D:\java_project\yu-ai-code-mother\src\main\java\com\yupi\yuaicodemother\core\CodeFileSaver.java
+D:\java_project\yu-ai-code-mother\src\main\java\com\yupi\yuaicodemother\core\CodeParser.java
 D:\java_project\yu-ai-code-mother\src\main\java\com\yupi\yuaicodemother\exception\BusinessException.java
 D:\java_project\yu-ai-code-mother\src\main\java\com\yupi\yuaicodemother\exception\ErrorCode.java
 D:\java_project\yu-ai-code-mother\src\main\java\com\yupi\yuaicodemother\exception\GlobalExceptionHandler.java
@@ -21,6 +28,7 @@ D:\java_project\yu-ai-code-mother\src\main\java\com\yupi\yuaicodemother\model\dt
 D:\java_project\yu-ai-code-mother\src\main\java\com\yupi\yuaicodemother\model\dto\UserRegisterRequest.java
 D:\java_project\yu-ai-code-mother\src\main\java\com\yupi\yuaicodemother\model\dto\UserUpdateRequest.java
 D:\java_project\yu-ai-code-mother\src\main\java\com\yupi\yuaicodemother\model\entity\User.java
+D:\java_project\yu-ai-code-mother\src\main\java\com\yupi\yuaicodemother\model\enums\CodeGenTypeEnum.java
 D:\java_project\yu-ai-code-mother\src\main\java\com\yupi\yuaicodemother\model\enums\UserRoleEnum.java
 D:\java_project\yu-ai-code-mother\src\main\java\com\yupi\yuaicodemother\model\vo\LoginUserVO.java
 D:\java_project\yu-ai-code-mother\src\main\java\com\yupi\yuaicodemother\model\vo\UserVO.java
