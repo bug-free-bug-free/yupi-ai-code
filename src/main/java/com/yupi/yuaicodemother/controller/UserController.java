@@ -11,23 +11,18 @@ import com.yupi.yuaicodemother.constant.UserConstant;
 import com.yupi.yuaicodemother.exception.BusinessException;
 import com.yupi.yuaicodemother.exception.ErrorCode;
 import com.yupi.yuaicodemother.exception.ThrowUtils;
-import com.yupi.yuaicodemother.model.dto.*;
+import com.yupi.yuaicodemother.model.dto.user.*;
 import com.yupi.yuaicodemother.model.vo.LoginUserVO;
 import com.yupi.yuaicodemother.model.vo.UserVO;
 import jakarta.annotation.Resource;
 import jakarta.servlet.http.HttpServletRequest;
-import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.beans.factory.annotation.Autowired;
 import com.yupi.yuaicodemother.model.entity.User;
 import com.yupi.yuaicodemother.service.UserService;
 import org.springframework.web.bind.annotation.RestController;
-import java.util.List;
 
 /**
  * 用户 控制层。
