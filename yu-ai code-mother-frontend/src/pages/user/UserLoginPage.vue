@@ -25,8 +25,6 @@
     </a-form>
   </div>
 </template>
-
-
 <script lang="ts" setup>
 import { reactive } from 'vue'
 import { userLogin } from '@/api/userController.ts'
@@ -61,8 +59,6 @@ const handleSubmit = async (values: any) => {
   }
 }
 </script>
-
-
 
 <style scoped>
 #userLoginPage {

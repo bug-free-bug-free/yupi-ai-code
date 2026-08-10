@@ -42,7 +42,6 @@
     </a-table>
   </div>
 </template>
-
 <script lang="ts" setup>
 import { computed, onMounted, reactive, ref } from 'vue'
 import { deleteUser, listUserVoByPage } from '@/api/userController.ts'
