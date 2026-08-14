@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="false">
           <entry name="$PROJECT_DIR$/../../maven/apache-maven-3.9.15-bin/apache-maven-3.9.15/repo/org/projectlombok/lombok/1.18.46/lombok-1.18.46.jar" />
+          <entry name="$PROJECT_DIR$/../../maven/apache-maven-3.9.15-bin/apache-maven-3.9.15/repo/org/projectlombok/lombok/1.18.46/lombok-1.18.46.jar" />
         </processorPath>
         <module name="yu-ai-code-mother" />
       </profile>
