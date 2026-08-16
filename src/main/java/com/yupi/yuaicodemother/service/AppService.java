@@ -2,6 +2,7 @@ package com.yupi.yuaicodemother.service;
 
 import com.mybatisflex.core.query.QueryWrapper;
 import com.mybatisflex.core.service.IService;
+import com.yupi.yuaicodemother.model.dto.app.AppAddRequest;
 import com.yupi.yuaicodemother.model.dto.app.AppQueryRequest;
 import com.yupi.yuaicodemother.model.entity.App;
 import com.yupi.yuaicodemother.model.entity.User;
@@ -16,6 +17,8 @@ import java.util.List;
  * @author <a href="https://github.com/liyupi">程序员鱼皮</a>
  */
 public interface AppService extends IService<App> {
+    Long createApp(AppAddRequest appAddRequest, User loginUser);
+
     public AppVO getAppVO(App app);
 
     public QueryWrapper getQueryWrapper(AppQueryRequest appQueryRequest);
